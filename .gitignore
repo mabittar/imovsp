@@ -15,6 +15,7 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 share/
+xgboost/
 
 # IPython
 profile_default/

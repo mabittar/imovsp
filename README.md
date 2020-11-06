@@ -4,7 +4,7 @@
 
 Deploy an app of Machine Learning aplication to predict values for Sao Paulo RealState 
 
-This project is my first machine learning deploy model.
+> **Note:** This project is my first machine learning deploy model.
 
 ---
 
@@ -17,17 +17,23 @@ The data was obtain from this [link](https://www.kaggle.com/argonalyst/sao-paulo
 ## Steps:
 
 - [x] Setup environment:
-⋅⋅* VScode
-⋅⋅* Python
-⋅⋅* venv
-⋅⋅* Flask
-⋅⋅* Github
+
+- VScode
+
+- Python
+
+- venv
+
+- Flask
+
+- Github
 
 - [x] Generate Model (model.ipynb):
-⋅⋅* import data
-⋅⋅* create model
-⋅⋅* compare metrics
-⋅⋅* export model
+
+- import data
+-  create model
+-  compare metrics
+-  export model
 
 
 - [x] Create Api to get and post information (app.py)

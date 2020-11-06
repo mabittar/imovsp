@@ -16,7 +16,7 @@ The data was obtain from this [link](https://www.kaggle.com/argonalyst/sao-paulo
 
 ## Steps:
 
-- [x] Setup environment:
+- [x] **Setup environment**:
 
 - VScode
 
@@ -50,7 +50,7 @@ also a I made a new test with Insomnia with new values
 
 ![online test with Insomnia](https://github.com/mabittar/imovsp/blob/master/imgs/test-heroku.JPG?raw=true)
 
-check all values used in [values_used.txt]((https://github.com/mabittar/imovsp/blob/master/model/values_used.txt?raw=true)
+check all values used in [values_used.txt](https://github.com/mabittar/imovsp/blob/master/model/values_used.txt?raw=true)
 ---
 
 ## License

@@ -4,7 +4,7 @@
 
 Deploy an app of Machine Learning aplication to predict values for Sao Paulo RealState 
 
-> **Note:** This project is my first machine learning deploy model.
+> **Note:** This project is my first API deployment for Machine Learning model.
 
 ---
 
@@ -42,8 +42,15 @@ The data was obtain from this [link](https://www.kaggle.com/argonalyst/sao-paulo
 
 ![test with Insomnia](https://github.com/mabittar/imovsp/blob/master/imgs/test-post-json.JPG?raw=true)
 
-- [ ] Publish model
+- [x] Publish API online
 
+APi was published to [https://imovsp.herokuapp.com/](https://imovsp.herokuapp.com/)
+
+also a I made a new test with Insomnia with new values
+
+![online test with Insomnia](https://github.com/mabittar/imovsp/blob/master/imgs/test-heroku.JPG?raw=true)
+
+check all values used in [values_used.txt]((https://github.com/mabittar/imovsp/blob/master/model/values_used.txt?raw=true)
 ---
 
 ## License
@@ -56,3 +63,9 @@ The data was obtain from this [link](https://www.kaggle.com/argonalyst/sao-paulo
 With you like it and want to see other projects please go to my portfolio at [mabittar.github.io](https://mabittar.github.io/)
 
 ## 
+
+---
+This exercise is part of Sigmoidal Course Data Science na Prática see more at [https://cursos.sigmoidal.ai/](https://cursos.sigmoidal.ai/)
+
+
+![](https://github.com/carlosfab/escola-data-science/blob/master/img/novo_logo_bg_claro.png?raw=true)

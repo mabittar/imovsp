@@ -6,31 +6,45 @@ Deploy an app of Machine Learning aplication to predict values for Sao Paulo Rea
 
 This project is my first machine learning deploy model.
 
+---
+
 ## The Data
 
 The data was obtain from this [link](https://www.kaggle.com/argonalyst/sao-paulo-real-estate-sale-rent-april-2019) and all steps will be recorded on this repo.
 
+---
 
 ## Steps:
 
-[x] Setup environment:
-    - VScode
-    - Python
-    - venv
-    - flask
-    - github
+- [x] Setup environment:
+⋅⋅* VScode
+⋅⋅* Python
+⋅⋅* venv
+⋅⋅* Flask
+⋅⋅* Github
 
-[x] Generate Predict Model:
-    - model.ipynb
+- [x] Generate Model (model.ipynb):
+⋅⋅* import data
+⋅⋅* create model
+⋅⋅* compare metrics
+⋅⋅* export model
 
-[] Create Api to get and post information
 
-[] Testing Api with Insomnia
+- [x] Create Api to get and post information (app.py)
 
+- [x] Testing Api with Insomnia
+
+![test with Insomnia](https://github.com/mabittar/imovsp/blob/master/image.jpg?raw=true)
+
+- [ ] Publish model
+
+---
 
 ## License
 
 [BSD 3-Clause License](https://raw.githubusercontent.com/mabittar/imovsp/master/LICENSE)
+
+---
 
 ## Porfolio
 With you like it and want to see other projects please go to my portfolio at [mabittar.github.io](https://mabittar.github.io/)

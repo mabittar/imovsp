@@ -20,7 +20,7 @@ class PrecoImoveis(Resource):
         retorna as informações caracteristicas do modelo
         para gerar o modelo preditivo
         """
-        return {'Nome': 'Marcel Bittar'}
+        return {'Nome': 'Marcel Bittar', 'web': 'http://mabittar.github.io'}
 
     def post(self):
         """
@@ -36,7 +36,7 @@ class PrecoImoveis(Resource):
         input_values = np.asarray(list(args.values())).reshape(1, -1)
         predict = model.predict(input_values)[0]
 
-        return jsonify({'previsao: ', float(predict)})
+        return jsonify({'Previsao do valor R$ ': float(predict)})
 
 
 api.add_resource(PrecoImoveis, '/')

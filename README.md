@@ -34,7 +34,7 @@ The data was obtain from this [link](https://www.kaggle.com/argonalyst/sao-paulo
 
 - [x] Testing Api with Insomnia
 
-![test with Insomnia](https://github.com/mabittar/imovsp/blob/master/image.jpg?raw=true)
+![test with Insomnia](https://github.com/mabittar/imovsp/blob/master/imgs/test-post-json.JPG?raw=true)
 
 - [ ] Publish model
 
